@@ -36,3 +36,4 @@ dj-rest-auth = "==5.0.2"
 azure-keyvault-secrets = "~=4.8.0"
 azure-identity = "~=1.17.1"
 azure-storage-blob = "==12.20.0"
+cb-django-disqus = {editable = true, path = "./modules/django_disqus"}
