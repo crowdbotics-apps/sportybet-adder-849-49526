@@ -16,6 +16,7 @@
     "@babel/polyfill": "^7.12.1",
     "@modules/side-drawer": "file:./modules/side-drawer/",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
+    "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/drawer": "^5.12.9",
     "@react-navigation/native": "^6.1.6",
