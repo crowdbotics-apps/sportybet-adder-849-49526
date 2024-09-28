@@ -14,6 +14,7 @@
   "dependencies": {
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
     "@babel/polyfill": "^7.12.1",
+    "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/side-drawer": "file:./modules/side-drawer/",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@modules/user-profile": "file:./modules/user-profile/",
@@ -38,7 +39,7 @@
     "react-native-screens": "^3.20.0",
     "react-native-vector-icons": "^9.2.0",
     "react-native-web": "^0.18.10",
-    "react-native-webview": "^11.17.0",
+    "react-native-webview": "11.23.0",
     "react-redux": "^8.0.5",
     "redux": "^4.2.1"
   },
