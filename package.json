@@ -15,6 +15,7 @@
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
     "@babel/polyfill": "^7.12.1",
     "@modules/side-drawer": "file:./modules/side-drawer/",
+    "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/drawer": "^5.12.9",
     "@react-navigation/native": "^6.1.6",
@@ -36,6 +37,7 @@
     "react-native-screens": "^3.20.0",
     "react-native-vector-icons": "^9.2.0",
     "react-native-web": "^0.18.10",
+    "react-native-webview": "^11.17.0",
     "react-redux": "^8.0.5",
     "redux": "^4.2.1"
   },
