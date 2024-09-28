@@ -17,6 +17,7 @@
     "@modules/faq": "file:./modules/faq",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/side-drawer": "file:./modules/side-drawer/",
+    "@modules/social-feed": "file:./modules/social-feed",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-masked-view/masked-view": "^0.2.9",
